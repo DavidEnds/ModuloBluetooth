@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Modulo_bluetooth-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -160,11 +161,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Modulo Bluetooth HC-05"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "1.0"
+Comp "Frizzy Electronics"
+Comment1 "David Matias"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -192,7 +193,7 @@ F 3 "" H 6900 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MIC5219-3.3BM5 U2
+L MIC5219-3.3BM5-RESCUE-Modulo_bluetooth U2
 U 1 1 5905D5E8
 P 5550 5000
 F 0 "U2" H 5300 5200 50  0000 L CNN
@@ -208,7 +209,7 @@ U 1 1 5905D64B
 P 4500 4800
 F 0 "D1" H 4500 4900 50  0000 C CNN
 F 1 "1N5817" H 4500 4700 50  0000 C CNN
-F 2 "Diodes_ThroughHole:D_DO-41_SOD81_Horizontal_RM10" H 4500 4625 50  0001 C CNN
+F 2 "w_smd_diode:do214ac" H 4500 4625 50  0001 C CNN
 F 3 "" H 4500 4800 50  0001 C CNN
 	1    4500 4800
 	-1   0    0    1   
@@ -516,7 +517,7 @@ L R R1
 U 1 1 590627CB
 P 4500 5200
 F 0 "R1" V 4580 5200 50  0000 C CNN
-F 1 "41k" V 4500 5200 50  0000 C CNN
+F 1 "1k" V 4500 5200 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4430 5200 50  0001 C CNN
 F 3 "" H 4500 5200 50  0001 C CNN
 	1    4500 5200
