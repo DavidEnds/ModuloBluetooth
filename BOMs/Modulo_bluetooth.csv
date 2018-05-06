@@ -1,0 +1,16 @@
+"Id";"Identificador";"Empaquetado";"Cantidad";"Identificación";"Suministrador y ref";
+1;"U1";"HC-06";1;"HC-05";;;
+2;"P1";"Pin_Header_Angled_1x06";1;"CONN_01X06";;;
+3;"C1";"C_0805_HandSoldering";1;"470p";;;
+4;"C2";"C_0805_HandSoldering";1;"100n";;;
+5;"C3";"C_0805_HandSoldering";1;"1u";;;
+6;"D1";"do214ac";1;"1N5817";;;
+7;"D2";"LED_0805";1;"LED";;;
+8;"R1";"R_0805_HandSoldering";1;"41k";;;
+9;"R2";"R_0805_HandSoldering";1;"220k";;;
+10;"R3";"R_0805_HandSoldering";1;"10k";;;
+11;"R4";"R_0805_HandSoldering";1;"2k";;;
+12;"SW1";"SW_SPST_B3U-1000P-B";1;"SW_Push";;;
+13;"U2";"SOT-23-5";1;"MIC5219-3.3BM5";;;
+14;"G***";"atom_medium";1;"LOGO";;;
+15;"G***";"web";1;"LOGO";;;
