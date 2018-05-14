@@ -6,7 +6,7 @@
 5;"C3";"C_0805_HandSoldering";1;"1u";;;
 6;"D1";"do214ac";1;"1N5817";;;
 7;"D2";"LED_0805";1;"LED";;;
-8;"R1";"R_0805_HandSoldering";1;"41k";;;
+8;"R1";"R_0805_HandSoldering";1;"1k";;;
 9;"R2";"R_0805_HandSoldering";1;"220k";;;
 10;"R3";"R_0805_HandSoldering";1;"10k";;;
 11;"R4";"R_0805_HandSoldering";1;"2k";;;
